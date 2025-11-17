@@ -1,2 +1,9 @@
-# dmtde-fisher-nogo
-Parameter Degeneracies in Late-Time Dark Energy Transitions:  A No-Go Theorem from Fisher Analysis
+# Paper Files
+
+LaTeX source and PDF of the paper.
+
+## Compilation
+pdflatex main.tex
+bibtex main
+pdflatex main.tex
+pdflatex main.tex
